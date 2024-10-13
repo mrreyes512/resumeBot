@@ -1,0 +1,3 @@
+[submodule "example-scripts"]
+	path = example-scripts
+	url = git@github.com:0x2142/example-scripts.git
