@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 webex-bot = "*"
+adaptivecardbuilder = "*"
 
 [dev-packages]
 

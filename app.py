@@ -12,7 +12,7 @@ proxies = {
 
 # Create a Bot Object
 bot = WebexBot(teams_bot_token=os.getenv("WEBEX_TEAMS_ACCESS_TOKEN"),
-               bot_name="reyBot",
+               bot_name="ReyesBot",
                include_demo_commands=True
                )
 
